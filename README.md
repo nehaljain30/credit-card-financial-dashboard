@@ -14,16 +14,3 @@ Welcome to the **Credit Card Financial Dashboard**! This project is designed to 
 - **📊 Plotly**: For creating interactive visualizations.  
 - **🌐 Dash**: To build the dashboard interface.  
 
-## 🔧 Installation  
-
-To get started with the Credit Card Financial Dashboard, follow these steps:  
-
-1. **Clone the repository**:  
-   ```bash  
-   git clone https://github.com/anirudhxchaturvedi/Credit-Card-Financial-Dashboard.git
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact
-For questions or feedback, please reach out via [your contact information or GitHub profile].
